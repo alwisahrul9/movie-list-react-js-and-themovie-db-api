@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/movie-list-react-js-and-themovie-db-api/static/css/main.b6d11a15.css",
+    "main.js": "/movie-list-react-js-and-themovie-db-api/static/js/main.747e42ae.js",
+    "static/js/787.ac04ab78.chunk.js": "/movie-list-react-js-and-themovie-db-api/static/js/787.ac04ab78.chunk.js",
+    "index.html": "/movie-list-react-js-and-themovie-db-api/index.html",
+    "main.b6d11a15.css.map": "/movie-list-react-js-and-themovie-db-api/static/css/main.b6d11a15.css.map",
+    "main.747e42ae.js.map": "/movie-list-react-js-and-themovie-db-api/static/js/main.747e42ae.js.map",
+    "787.ac04ab78.chunk.js.map": "/movie-list-react-js-and-themovie-db-api/static/js/787.ac04ab78.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6d11a15.css",
+    "static/js/main.747e42ae.js"
+  ]
+}
